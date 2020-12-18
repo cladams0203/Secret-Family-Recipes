@@ -2,7 +2,7 @@
 
 Api to store recipes with ingredients and instructions
 
-## Base URL:
+## Base URL: https://family-recipes21.herokuapp.com/
 
 ---
 
