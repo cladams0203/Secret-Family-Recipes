@@ -134,26 +134,6 @@ Api to store recipes with ingredients and instructions
 
 ---
 
-### GET /api/recipes/:id
-
-#### Valid recipe id required
-
-#### Returns:
-
-```
-  {
-      "message": "Registration Successful",
-      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNjA4MzQzMzI3LCJleHAiOjE2MDg0Mjk3Mjd9.5qVrQoL2gzbEBCc1ofLEbbvI99Nmv_oayKyjRantkqg",
-      "user": {
-          "id": 3,
-          "username": "test3",
-          "email": "test@test.com"
-      }
-  }
-
-```
-
----
 
 ### PUT /api/recipes/:id
 
