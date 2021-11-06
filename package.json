@@ -1,5 +1,5 @@
 {
-  "name": "Secret-Family-Recipes",
+  "name": "secret-family-recipes",
   "version": "1.0.0",
   "description": "Api to store recipes with ingredients and instructions",
   "main": "index.js",

@@ -7,7 +7,8 @@ module.exports = {
     connection: {
       host: "localhost",
       port: 5432,
-      user: "chris",
+      user: "postgres",
+      password: process.env.PG_DEV_PASSWORD,
       database: "familyrecipes",
     },
     pool: {
